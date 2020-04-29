@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/wannabewayno/Overseer#readme",
   "dependencies": {
-    "ascii-art-font-updated": "^1.0.0",
-    "ascii-art-table": "^1.0.1"
+    "jest": "^25.5.1"
   }
 }

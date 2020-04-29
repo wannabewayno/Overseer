@@ -8,11 +8,6 @@ const inquirer = require("inquirer");
 const Rx = require("rxjs"); 
 const Fn = require("./lib/functions.js");
 
-// const OUTPUT_DIR = path.resolve(__dirname, "output");
-// const outputPath = path.join(OUTPUT_DIR, "team.html");
-// const render = require("./lib/htmlRenderer");
-
-
 // creates a new subject observable
 const prompts = new Rx.Subject();
 
