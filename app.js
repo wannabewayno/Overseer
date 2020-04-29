@@ -4,10 +4,8 @@ console.log(`   ____  Welcome to
 / /_/ /| |/ /  __/ /  (__  )  __/  __/ /    
 \\____/ |___/\\___/_/  /____/\\___/\\___/_/     
                      The team manager CLI `);
-
 const inquirer = require("inquirer");
 const Rx = require("rxjs"); 
-const fs = require("fs");
 const Fn = require("./lib/functions.js");
 
 // creates a new subject observable

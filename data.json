@@ -1,4 +1,1 @@
-{
-    "data":"help",
-    "moreData":"moreHelp"
-}
+{"Sales":{"teamName":"Sales","employees":{"Engineer":{"Ivan":{"name":"Ivan","id":"992346","email":"ivan@westnet.com.au","githubUsername":"github","role":"Engineer"}},"Intern":{},"Manager":{}}}}
