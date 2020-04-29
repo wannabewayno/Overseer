@@ -1,0 +1,26 @@
+{
+  "name": "overseer",
+  "version": "1.0.0",
+  "description": "CLI to generate or update a team dashboard",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannabewayno/Overseer.git"
+  },
+  "author": "Wayne Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wannabewayno/Overseer/issues"
+  },
+  "homepage": "https://github.com/wannabewayno/Overseer#readme",
+  "dependencies": {
+    "ascii-art-font-updated": "^1.0.0",
+    "ascii-art-table": "^1.0.1"
+  }
+}
