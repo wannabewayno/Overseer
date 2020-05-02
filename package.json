@@ -7,6 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
+    "start":"node app.js",
     "test": "jest"
   },
   "repository": {
@@ -20,6 +21,10 @@
   },
   "homepage": "https://github.com/wannabewayno/Overseer#readme",
   "dependencies": {
-    "jest": "^25.5.1"
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "jest": "^25.5.1",
+    "open": "^7.0.3",
+    "rxjs": "^6.5.5"
   }
 }
