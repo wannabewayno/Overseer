@@ -5,13 +5,12 @@ Easily create a team using the command line and display a html rendered page of 
 
 ## Installation
  * clone this repo
- * run ```npm install inquirer``` and ```npm install rxjs```
- * run node app.js 
+ * run ```npm install``` to install necessary dependencies
+ * run ```npm start ``` 
  * Create your teams
  * You can edit your teams at anytime by following the menu options
- * Select 'Display Overseer dashboard' to see your team visualy.
+ * Select 'Display Overseer dashboard' and then the team you would like to see visualy.
 
 ## Tests
 To run tests
-* Install jest with run ```npm install jest```
-* then to test, run ```npm test``` 
+* run ```npm test```
