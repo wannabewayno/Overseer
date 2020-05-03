@@ -1,13 +1,14 @@
 {
-  "name": "overseer",
+  "name": "@wannabewayno/overseer",
   "version": "1.0.0",
   "description": "CLI to generate or update a team dashboard",
   "main": "app.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "tests"
   },
   "scripts": {
-    "start":"node app.js",
+    "start": "node app.js",
     "test": "jest"
   },
   "repository": {
@@ -26,5 +27,13 @@
     "jest": "^25.5.1",
     "open": "^7.0.3",
     "rxjs": "^6.5.5"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "javascript",
+    "CLI",
+    "team",
+    "manager",
+    "node"
+  ]
 }
