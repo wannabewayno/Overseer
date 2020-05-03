@@ -1,6 +1,6 @@
 {
   "name": "@wannabewayno/overseer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to generate or update a team dashboard",
   "main": "app.js",
   "directories": {
